@@ -20,7 +20,11 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 - [Handbooks](#handbooks)
 
 ## Browsers
-...
+* [What happens when a browser starts](https://github.com/alex/what-happens-when#browser)
+* [What happens when CSS is being interpretated](https://github.com/alex/what-happens-when#css-interpretation)
+* [What happens when a web page is rendered](https://github.com/alex/what-happens-when#page-rendering)
+* [What happens when HTML is parsed](https://github.com/alex/what-happens-when#html-parsing)
+
 
 ## CSS
 ...
