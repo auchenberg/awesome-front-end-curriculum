@@ -16,10 +16,8 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 - [Performance](#performance)
 - [Craftsmanship](#craft)
 - [Information Design / User Experience](#ux)
-
 - [Courses/classes](#courses)
 - [Handbooks](#handbooks)
-
 
 ## Browsers
 ...
