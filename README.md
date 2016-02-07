@@ -14,6 +14,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 - [Architecture and Patterns](#architecture)
 - [Testing](#testing)
 - [Performance](#performance)
+- [Accessibility](#accessibility)
 - [Craftsmanship](#craft)
 - [Information Design / User Experience](#ux)
 - [Courses/classes](#courses)
@@ -42,6 +43,12 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 
 ## Testing
 * [Test-Driven JavaScript Development](http://tddjs.com)
+* [Accessibility Testing Tools](https://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/)
+
+## Accessibility
+* [The A11y Project](http://a11yproject.com)
+* [WebAIM](http://webaim.org/articles/)
+* [Accessibility Wins](http://a11ywins.tumblr.com)
 
 ## Work processes
 * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
