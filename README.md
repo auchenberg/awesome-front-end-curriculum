@@ -6,6 +6,7 @@ A curated list of material that's considered mandatory curriculum for front-end 
 
 ## Table of Contents
 
+- [Courses](#courses)
 - [JavaScript](#javascript)
 - [CSS](#css)
 - [HTML](#html)
@@ -15,6 +16,9 @@ A curated list of material that's considered mandatory curriculum for front-end 
 - [Software craftsmanship](#craft)
 - [Information Design / User Experience](#ux)
 
+## Courses/classes
+* [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+* [Front-end masters](https://frontendmasters.com/)
 
 ## JavaScript
 * [Eloquent JavaScript](http://eloquentjavascript.net)
