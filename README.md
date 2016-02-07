@@ -1,6 +1,6 @@
 # Awesome front-end curriculum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of material that's considered mandarry curriculum for front-end developers by the community. 
+A curated list of material that's considered mandatory curriculum for front-end developers by the community. 
 
 [Pull Requests](https://github.com/auchenberg/awesome-front-end-curriculum/edit/master/README.md) are welcome.
 
