@@ -1,6 +1,6 @@
 # Awesome front-end curriculum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A crowdsourced and curated list of material that's considered mandatory curriculum for front-end developers by the community. 
+A crowdsourced and curated list of material that's considered mandatory curriculum for front-end developers by the community.
 [Pull Requests](https://github.com/auchenberg/awesome-front-end-curriculum/edit/master/README.md) are welcome.
 
 ## Table of Contents
@@ -25,20 +25,22 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [What happens when a web page is rendered](https://github.com/alex/what-happens-when#page-rendering)
 * [What happens when HTML is parsed](https://github.com/alex/what-happens-when#html-parsing)
 
-
 ## CSS
-...
+* [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## HTML
-...
+* [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## JavaScript
+* [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript: The Good Parts](http://www.goodreads.com/book/show/2998152-javascript)
 * [JavaScript: The Definitive Guide](http://www.goodreads.com/book/show/8143605-javascript)
+* [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
+* [Exploring ES6](http://exploringjs.com/es6/)
 
 ## Source Control
-...
+* [GitHub: The beginner’s guide](http://blog.pluralsight.com/github-tutorial)
 
 ## Testing
 * [Test-Driven JavaScript Development](http://tddjs.com)
@@ -67,5 +69,5 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 ## Courses/classes
 * [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 * [Front-end masters](https://frontendmasters.com/)
-* 
 
+---
