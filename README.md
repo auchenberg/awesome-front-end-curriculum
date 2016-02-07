@@ -1,32 +1,28 @@
 # Awesome front-end curriculum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of material that's considered mandatory curriculum for front-end developers by the community. 
-
+A crowdsourced and curated list of material that's considered mandatory curriculum for front-end developers by the community. 
 [Pull Requests](https://github.com/auchenberg/awesome-front-end-curriculum/edit/master/README.md) are welcome.
 
 ## Table of Contents
 
-- [Courses](#courses)
-- [JavaScript](#javascript)
+- [Browsers](#browsers)
 - [CSS](#css)
 - [HTML](#html)
-- [Source control](#sourcecontrol)
-- [Work processes](#processes)
+- [JavaScript](#javascript)
+- [Source Control](#sourcecontrol)
+- [Work Pocesses](#processes)
 - [Architecture and Patterns](#architecture)
-- [Software craftsmanship](#craft)
+- [Testing](#testing)
+- [Performance](#performance)
+- [Craftsmanship](#craft)
 - [Information Design / User Experience](#ux)
 
-## Courses/classes
-* [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-* [Front-end masters](https://frontendmasters.com/)
+- [Courses/classes](#courses)
+- [Handbooks](#handbooks)
 
-## JavaScript
-* [Eloquent JavaScript](http://eloquentjavascript.net)
-* [JavaScript: The Good Parts](http://www.goodreads.com/book/show/2998152-javascript)
-* [JavaScript: The Definitive Guide](http://www.goodreads.com/book/show/8143605-javascript)
-* [JavaScript Patterns](http://www.goodreads.com/book/show/9422683-javascript-patterns)
-* [Test-Driven JavaScript Development](http://tddjs.com)
-* [Learning JavaScript Design Patterns](http://www.goodreads.com/book/show/14289134-learning-javascript-design-patterns)
+
+## Browsers
+...
 
 ## CSS
 ...
@@ -34,15 +30,24 @@ A curated list of material that's considered mandatory curriculum for front-end 
 ## HTML
 ...
 
+## JavaScript
+* [Eloquent JavaScript](http://eloquentjavascript.net)
+* [JavaScript: The Good Parts](http://www.goodreads.com/book/show/2998152-javascript)
+* [JavaScript: The Definitive Guide](http://www.goodreads.com/book/show/8143605-javascript)
+
 ## Source Control
 ...
+
+## Testing
+* [Test-Driven JavaScript Development](http://tddjs.com)
 
 ## Work processes
 * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 * [Managing Humans](http://managinghumans.com)
 
 ## Architecture and Patterns
-...
+* [JavaScript Patterns](http://www.goodreads.com/book/show/9422683-javascript-patterns)
+* [Learning JavaScript Design Patterns](http://www.goodreads.com/book/show/14289134-learning-javascript-design-patterns)
 
 ## Software craftsmanship
 * [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)
@@ -56,4 +61,9 @@ A curated list of material that's considered mandatory curriculum for front-end 
 * [Don't Make Me Think, Revisited](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 * [Information Dashboard Design](http://www.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001)
 * [Show Me The Numbers](http://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/)
+
+## Courses/classes
+* [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+* [Front-end masters](https://frontendmasters.com/)
+* 
 
