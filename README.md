@@ -19,6 +19,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 - [Information Design / User Experience](#ux)
 - [Courses/classes](#courses)
 - [Handbooks](#handbooks)
+- [Reference documentation](#references)
 
 ## Browsers
 * [What happens when a browser starts](https://github.com/alex/what-happens-when#browser)
@@ -27,13 +28,11 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [What happens when HTML is parsed](https://github.com/alex/what-happens-when#html-parsing)
 
 ## CSS
-* [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## HTML
-* [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+...
 
 ## JavaScript
-* [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Eloquent JavaScript](http://eloquentjavascript.net)
 * [JavaScript: The Good Parts](http://www.goodreads.com/book/show/2998152-javascript)
 * [JavaScript: The Definitive Guide](http://www.goodreads.com/book/show/8143605-javascript)
@@ -76,4 +75,8 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 * [Front-end masters](https://frontendmasters.com/)
 
+## Reference documentation
+* [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ---
