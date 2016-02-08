@@ -28,6 +28,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [What happens when HTML is parsed](https://github.com/alex/what-happens-when#html-parsing)
 
 ## CSS
+...
 
 ## HTML
 ...
@@ -79,4 +80,5 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 
 ---
