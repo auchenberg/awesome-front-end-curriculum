@@ -54,7 +54,6 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 
 ## Work processes
 * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
-* [Managing Humans](http://managinghumans.com)
 
 ## Architecture and Patterns
 * [JavaScript Patterns](http://www.goodreads.com/book/show/9422683-javascript-patterns)
