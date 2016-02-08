@@ -73,7 +73,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 
 ## Courses/classes
 * [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-* [Front-end masters](https://frontendmasters.com/)
+* [Front-end masters: Basic Programming with JavaScript](https://frontendmasters.com/courses/javascript-basics/)
 
 ## Reference documentation
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
