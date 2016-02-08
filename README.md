@@ -18,6 +18,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 - [Craftsmanship](#craft)
 - [Information Design / User Experience](#ux)
 - [Courses/classes](#courses)
+- [Collaborative Live Code](#colaborative)
 - [Handbooks](#handbooks)
 
 ## Browsers
@@ -28,9 +29,11 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 
 ## CSS
 * [MDN: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Lea Verou: CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
 
 ## HTML
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML5 Rocks](http://www.html5rocks.com/)
 
 ## JavaScript
 * [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -41,7 +44,10 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [Exploring ES6](http://exploringjs.com/es6/)
 
 ## Source Control
+* [Codeschool: Try Git](https://try.github.io/levels/1/challenges/1)
+* [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 * [GitHub: The beginner’s guide](http://blog.pluralsight.com/github-tutorial)
+* [Good Resources for Learning Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 ## Testing
 * [Test-Driven JavaScript Development](http://tddjs.com)
@@ -74,7 +80,15 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [Show Me The Numbers](http://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/)
 
 ## Courses/classes
+* [Codecademy](https://www.codecademy.com/)
 * [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 * [Front-end masters](https://frontendmasters.com/)
+* [Egghead.io](https://egghead.io/)
+* [Evented Mind](https://www.eventedmind.com/classes)
+
+## Collaborative Live Code
+* [JS Bin](http://jsbin.com/)
+* [JS Fiddle](https://jsfiddle.net/)
+* [Code Pen](http://codepen.io/)
 
 ---
