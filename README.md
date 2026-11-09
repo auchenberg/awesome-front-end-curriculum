@@ -39,6 +39,7 @@ A crowdsourced and curated list of material that's considered mandatory curricul
 * [JavaScript: The Definitive Guide](http://www.goodreads.com/book/show/8143605-javascript)
 * [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
 * [Exploring ES6](http://exploringjs.com/es6/)
+* [Preserve Large Numbers and Identifiers in JSON](https://bestjson.com/learn/json-large-numbers) - JavaScript numeric precision limits and safe identifier representations.
 
 ## Source Control
 * [GitHub: The beginner’s guide](http://blog.pluralsight.com/github-tutorial)
